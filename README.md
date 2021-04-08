@@ -50,7 +50,7 @@
 
   <a href="https://https://reactjs.org/" target="_blank">
     <img
-      src="https://https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"
+      src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"
       alt="reactjs"
       width="60"
       height="40"
@@ -78,7 +78,7 @@
   </a>
   <a href="https://www.linux.org/" target="_blank">
     <img
-      src="https://https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"
+      src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"
       alt="linux"
       width="60"
       height="40"
