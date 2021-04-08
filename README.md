@@ -20,7 +20,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"
       alt="angularjs"
       width="60"
-      height="40"
+      height="50"
     />
   </a>
   <a href="https://expressjs.com/" target="blank">
@@ -88,7 +88,7 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
-      width="40"
+      width="50"
       height="40"
     />
   </a>
@@ -113,23 +113,23 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
-      width="40"
-      height="40"
+      width="80"
+      height="60"
     />
   </a>
   <a href="https://www.oracle.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
       alt="oracle"
-      width="40"
-      height="40"
+      width="80"
+      height="60"
     />
   </a>
   <a href="https://www.postgresql.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
       alt="postgresql"
-      width="40"
+      width="50"
       height="40"
     />
   </a>
