@@ -1,4 +1,5 @@
-# 👋 Hi there - 📫 How to reach me **amanpreet3338@gmail.com**
+# 👋 Hi there 
+-📫 How to reach me **amanpreet3338@gmail.com**
 
 <h3 align="left">🤝🏻 Connect with me:</h3>
 <p align="left">
