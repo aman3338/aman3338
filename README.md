@@ -19,7 +19,7 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"
       alt="angularjs"
-      width="40"
+      width="60"
       height="40"
     />
   </a>
@@ -33,7 +33,7 @@
   </a>
   <a href="https://aws.amazon.com" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+      src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"
       alt="aws"
       width="40"
       height="40"
@@ -48,27 +48,11 @@
     />
   </a>
 
-  <a href="https://www.w3schools.com/cs/" target="_blank">
+  <a href="https://https://reactjs.org/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-      alt="csharp"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-      alt="dotnet"
-      width="40"
+      src="https://https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"
+      alt="reactjs"
+      width="60"
       height="40"
     />
   </a>
@@ -94,9 +78,9 @@
   </a>
   <a href="https://www.linux.org/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+      src="https://https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"
       alt="linux"
-      width="40"
+      width="60"
       height="40"
     />
   </a>
@@ -147,19 +131,7 @@
       width="40"
       height="40"
     />
-  </a>
-
-  <a href="https://reactjs.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-
-
-
+  </a
 </p>
 
 ![Oktay's GitHub
