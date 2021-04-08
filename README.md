@@ -6,10 +6,10 @@
   <a href="https://www.linkedin.com/in/aman-preet-9367131b0//" target="blank"
     ><img
       align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
+      src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"
       alt="https://www.linkedin.com/in/aman-preet-9367131b0/"
       height="30"
-      width="40"
+      width="70"
   /></a>
 </p>
 
@@ -143,7 +143,7 @@
   </a
 </p>
 
-![Oktay's GitHub
+![amanpreet's GitHub
 stats](https://github-readme-stats.vercel.app/api?username=aman3338&show_icons=true&theme=onedark)
 [![Top
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aman3338&layout=compact&theme=onedark)](https://github.com/aman3338/github-readme-stats)
