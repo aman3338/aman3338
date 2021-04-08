@@ -8,7 +8,7 @@
       align="center"
       src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"
       alt="https://www.linkedin.com/in/aman-preet-9367131b0/"
-      height="30"
+      height="40"
       width="70"
   /></a>
 </p>
