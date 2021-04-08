@@ -23,6 +23,14 @@
       height="40"
     />
   </a>
+  <a href="https://expressjs.com/" target="blank">
+    <img
+         src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"
+         alt"expressjs"
+         width="80"
+         height="40"
+         />
+  </a>
   <a href="https://aws.amazon.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
