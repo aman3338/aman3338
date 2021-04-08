@@ -142,8 +142,3 @@
     />
   </a
 </p>
-
-![amanpreet's GitHub
-stats](https://github-readme-stats.vercel.app/api?username=aman3338&show_icons=true&theme=onedark)
-[![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aman3338&layout=compact&theme=onedark)](https://github.com/aman3338/github-readme-stats)
