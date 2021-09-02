@@ -39,14 +39,6 @@
       height="40"
     />
   </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
-      alt="azure"
-      width="40"
-      height="40"
-    />
-  </a>
 
   <a href="https://https://reactjs.org/" target="_blank">
     <img
@@ -115,22 +107,6 @@
       alt="nodejs"
       width="80"
       height="60"
-    />
-  </a>
-  <a href="https://www.oracle.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-      alt="oracle"
-      width="80"
-      height="60"
-    />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      width="50"
-      height="40"
     />
   </a>
   <a href="https://postman.com" target="_blank">
