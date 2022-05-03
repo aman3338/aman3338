@@ -15,15 +15,24 @@
 
 <h3 align="left">🧠 My tech stacks:</h3>
 <p align="left">
-  <a href="https://expressjs.com/" target="blank">
+   <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank">
     <img
-         src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"
-         alt"expressjs"
-         width="80"
-         height="40"
-         />
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
   </a>
-
+  <a href="https://nodejs.org" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs"
+      width="80"
+      height="60"
+    />
+  </a>
   <a href="https://https://reactjs.org/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"
@@ -32,25 +41,13 @@
       height="40"
     />
   </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-  >
+  <a href="https://expressjs.com/" target="blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"
-      alt="linux"
-      width="60"
-      height="40"
-    />
+         src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"
+         alt"expressjs"
+         width="80"
+         height="40"
+         />
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img
@@ -60,13 +57,13 @@
       height="40"
     />
   </a>
-
-  <a href="https://nodejs.org" target="_blank">
+ <a href="https://www.linux.org/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="80"
-      height="60"
+      src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"
+      alt="linux"
+      width="60"
+      height="40"
     />
   </a>
+  
 </p>
