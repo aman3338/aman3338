@@ -7,7 +7,7 @@
     ><img
       align="center"
       src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"
-      alt="https://www.linkedin.com/in/amanpreet-vi/"
+      alt="https://www.linkedin.com/in/amanpreet_vi/"
       height="40"
       width="70"
   /></a>
